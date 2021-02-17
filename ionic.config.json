@@ -1,0 +1,7 @@
+{
+  "name": "ionic-block-message",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
